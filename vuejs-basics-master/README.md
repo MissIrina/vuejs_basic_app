@@ -1,4 +1,4 @@
-# day-11
+# vue basic
 
 ## Project setup
 ```
